@@ -1,3 +1,3 @@
 # .github
 
-<img width="3000" height="2250" alt="miliomics" src="https://github.com/user-attachments/assets/ebd3a657-7575-4c0a-b4e1-29f25aa032ee" />
+<img width="6000" height="4500" alt="miliomics" src="https://github.com/user-attachments/assets/ae086b11-20f8-4c6f-a8d3-10e402715ad9" />
